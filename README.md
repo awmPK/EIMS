@@ -68,7 +68,7 @@ bin/
 2. 打开终端，进入项目所在的目录。
 3. 使用以下命令编译项目：
 ```sh
-g++ main.cpp employee.cpp management_system.cpp -o employee_management
+g++ main.cpp employee.cpp management_system.cpp -o .final
 ```
 4. 运行编译后的可执行文件：
 ```sh
